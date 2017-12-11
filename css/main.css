@@ -24,3 +24,7 @@ ul li {
     border: 1px solid black;
     border-radius: 2%;
 }
+
+footer {
+    text-align: center;
+}
